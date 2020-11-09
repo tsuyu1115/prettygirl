@@ -1,0 +1,63 @@
+/* body */
+body {
+    background-color: #fff9de;
+    margin: 0;
+}
+/* 標題1*/
+h1 {
+    font-size: 3em;
+    color: #6b3008;
+    text-align: center;
+}
+.mainvisual {
+    background-color:  #2b445f;
+    border-bottom: solid 3px #000000;
+}
+.mainvisual img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+/* 選單 */
+.navigation ul {
+    background-color:  #e9f6a6;
+    margin: 0;
+    padding: 4px;
+    text-align: center;
+}
+.navigation ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 0 8px;
+}
+.navigation ul li a {
+    color: #2c5072;
+    text-decoration: none;
+}
+.navigation ul li a:hover {
+    color: #0278f5;
+    text-decoration: underline;
+}
+/* 背景色・文字色 */
+#profile {
+    background-color:  #feaaac;
+    color:  #8069d2;
+}
+/* 邊界設定 */
+#profile .inner {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#concert {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* section */
+section {
+    margin: 48px 0;
+}
+
+
