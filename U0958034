@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tw">
+
+<head>
+ <meta charset="utf-8">
+ <title>tsuyu.個人空間</title>
+ <meta name="description"content="個人資料/">
+ <link rel="stylesheet"href="mycss.css">
+</head>
+<body>
+   <header>
+      <h1>海馬的祕密檔案</h1>
+      <nav class="navigation">
+        <ul>
+ <li><a href="#profile">tsuyu首頁</a></li>
+ <li><a href="#concert">個人作品</a></li>
+ <li><a href="https://tsuyu1115.github.io/U0958034-1/"target=_blank">購物網站</a></li>
+ <li><a href="https://tsuyu1115.github.io/U0958034/123.htm">最愛的愛豆</a></li>
+ <li><a href="https://www.nuu.edu.tw/"target=_blank">聯合大學</a></li>
+ <li><a href="https://ccdm.nuu.edu.tw/"target=_blank">文創系</a></li>
+ <ul>
+ </nav>
+</header>
+<main>
+<div class="mainvisual">
+<img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/118874592_3325023510915933_6120830016871840139_n.jpg?
+
+_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=Bu9isPl9mhoAX9aROVQ&_nc_ht=scontent-tpe1-
+
+1.xx&oh=63a99c7f2ad4279d79f722b444bbc817&oe=5FCD6B26https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-
+
+9/118874592_3325023510915933_6120830016871840139_n.jpg?
+
+_nc_cat=111&ccb=2&_nc_sid=09cbfe&_nc_ohc=Bu9isPl9mhoAX9aROVQ&_nc_ht=scontent-tpe1-
+
+1.xx&oh=63a99c7f2ad4279d79f722b444bbc817&oe=5FCD6B26"alt="主視覺圖片"width="740"height="340">
+</div>
+<article id="profile">
+<div class="inner">
+ <h1>自我介紹</h1>
+ <p>自我介紹:我是江紫瑜，生於台南，喜歡到處吃吃喝喝，家裡有養兩隻貓，個性開朗大方，充滿台南人的溫暖。
+ <section>
+ <h3>個人簡歷</h3>
+ <table>
+ <tr>
+ <th>現職</th>
+ <td>學生</td>
+ </tr>
+ <tr>
+ <th>學校</th>
+ <td>聯合大學 文化創意與數位行銷學系</td>
+ <tr>
+ <th>出生地</th><td>台南</td>
+ </tr>
+ <tr>
+ <th>個人專長</th><td>跳舞</td>
+ </tr>
+ <tr>
+ <th>興趣</th><td>聽音樂、看影片、打遊戲</td>
+ </tr>
+ <tr>
+ <th>人格特質</th><td>樂觀、開朗、樂於助人</td>
+ </tr>
+ <tr>
+ <th>個人愛好</th><td>研究美妝</td>
+ </tr>
+
+ </table>
+ </section>
+<article id="concert">
+<div class="inner">
+
+<h2>個人作品集</h2>
+ <p>tsuyu歷年作品</p>
+<li><a href="https://www.youtube.com/watch?v=7ZnoRt1OVA8"target=_blank">高中微電影預告</a></li>
+<li><a href="https://www.youtube.com/watch?v=2_HnwdlJt0E"target=_blank">高中微電影正片</a></li>
+<li><a href="https://www.youtube.com/watch?v=PzHOJJ-4vMQ"target=_blank">畢業典禮表演</a></li>
+
+</article>
+</main>
+<footer>
+<p class="pagetop"><a href="#top">回到首頁</a></p>
+<p class="copyright"><small>&copy;CopyRight2020 文化創意與數位行銷學系　回到首頁</small></p>
+</footer>
+</body>
+</html>
